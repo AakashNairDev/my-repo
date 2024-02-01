@@ -1,5 +1,5 @@
 import mongoose from "mongoose"; 
-//import ENV from '../config.js'
+import ENV from '../config.js'
 
 import { MongoMemoryServer } from "mongodb-memory-server"; // in memory server for practice
 
